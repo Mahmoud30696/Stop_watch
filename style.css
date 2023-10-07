@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    background-color: rgba(16, 77, 66, 0.945);
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.stopwatch {
+    font-size: 100px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+button {
+    font-size: 30px;
+    margin: 10px;
+    background-color: aliceblue;
+}
